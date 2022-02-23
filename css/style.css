@@ -1,3 +1,4 @@
+/* Common Css Start */
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -15,6 +16,8 @@ h2{
     padding-bottom: 60px;
     color: #ff3392;
 }
+
+/* Mission Css Start */
 
 .my_mission h2{
     text-align: center;
@@ -98,12 +101,14 @@ h2{
     background-color:rgba(204, 204, 255, 0.7);
 }
 
+/* Develop Css */
 
 .develop_item{
     background-image: url(../images/shapes/dream-bg.png);
     background-repeat: no-repeat;
 
 }
+/* Global Css */
 
 .global_part{
     background-image: url(../images/shapes/shape-1.png);
@@ -112,6 +117,8 @@ h2{
     background-position: right;
    
 }
+
+/* Footer Css */
 
 .footer{
     font-size: 50px;
@@ -137,3 +144,5 @@ h2{
 .span_2022{
     color: #11503C;
 }
+
+/* End */
