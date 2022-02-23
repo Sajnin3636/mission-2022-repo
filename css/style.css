@@ -1,0 +1,139 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    padding-left: 3%;
+   
+}
+
+h2{
+    font-size: 40px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 60px;
+    color: #ff3392;
+}
+
+.my_mission h2{
+    text-align: center;
+    margin: auto;
+    padding:0 28%;
+}
+
+.left_border{
+    border-left: 5px solid #65A8B9;
+}
+
+.mission_color{
+    color: #65A8B9;
+}
+
+.flexible_container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half_width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half_width img{
+    width: 80%;
+    padding-left: 5%;
+}
+
+.link_button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(#65A8B9, #6600ff);
+    color: #ff8700;
+    font-weight: 700;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    
+}
+
+.mission_img{
+    width: 30%;
+    display: inline-block;
+    border: 2px solid #fff;
+    margin: 0 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 10px 15px 40px gray;
+}
+
+.mission_img h3{
+    font-size: 30px;
+    color: #65A8B9;
+}
+
+.mission_img p,h3,img{
+    padding:10px 10%;
+}
+
+.mission_img img{
+    width: 70%;
+    margin: auto;
+} 
+
+.mission_bg1{
+    background-color:rgba(242, 255, 230, 0.7);
+}
+
+.mission_bg2{
+    background-color:rgba(255, 238, 230, 0.7);
+}
+
+.mission_bg3{
+    background-color:rgba(204, 204, 255, 0.7);
+}
+
+
+.develop_item{
+    background-image: url(../images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+
+}
+
+.global_part{
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;  
+    background-size: contain;
+    background-position: right;
+   
+}
+
+.footer{
+    font-size: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer{
+    background-color: #070707;
+    padding-bottom: 49px;
+}
+
+.footer h6{
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.foot_span{
+    color: #ff3392;
+    padding-right: 20px;
+}
+
+.span_2022{
+    color: #11503C;
+}
